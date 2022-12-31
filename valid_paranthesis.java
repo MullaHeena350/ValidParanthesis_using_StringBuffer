@@ -7,6 +7,9 @@ class valid_paranthesis
 	 int i=0,j=0,k;
 	 char c;
 
+
+
+
 	 
 	 while(i<s.length())
 	 {
