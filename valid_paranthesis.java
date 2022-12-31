@@ -6,6 +6,11 @@ class valid_paranthesis
 	 StringBuffer empty=new StringBuffer();
 	 int i=0,j=0,k;
 	 char c;
+
+
+
+
+	 
 	 while(i<s.length())
 	 {
 	 	if(s.charAt(i)=='('||s.charAt(i)=='['||s.charAt(i)=='{')
